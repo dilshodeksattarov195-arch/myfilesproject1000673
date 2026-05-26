@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyftringify",
+        "uuid": 5953358,
+        "checksum": "6yyb29"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
